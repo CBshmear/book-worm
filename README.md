@@ -20,6 +20,10 @@ description
 run command npm I from root folder
 
 ## Usage
+Here is a link to the deployed page:  https://floating-badlands-11250.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/112667575/229648660-edb3914e-ad8f-4994-82de-d8308bfdb94c.png)
+
 
 run command npm run develop
 
